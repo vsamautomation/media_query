@@ -1,0 +1,142 @@
+[
+  {
+    "id": "7zLoWVFCiw8EfmEgQwQWnE",
+    "firstName": "Alejandra",
+    "lastName": "Sanchez",
+    "email": "alejasan660@gmail.com",
+    "initials": "AS",
+    "isAvailable": true,
+    "suspended": true,
+    "profilePicUrl": null
+  },
+  {
+    "id": "YIfRvaBkKMMDsbwKSMl9WZ",
+    "firstName": "Alex",
+    "lastName": "Lopez",
+    "email": "chepelopez1021@gmail.com",
+    "initials": "AL",
+    "isAvailable": true,
+    "suspended": false,
+    "profilePicUrl": "https://fra.cloud.appwrite.io/v1/storage/buckets/6864fd080011ea7fbffd/files/68fb64ef001f6b3e2b6f/view?project=6864fc0b00077c874c53"
+  },
+  {
+    "id": "uyL2vr8NrcYpkR2DTZv4Fe",
+    "firstName": "Anum",
+    "lastName": "Khan",
+    "email": "anumjanko@gmail.com",
+    "initials": "AK",
+    "isAvailable": false,
+    "suspended": true,
+    "profilePicUrl": "https://fra.cloud.appwrite.io/v1/storage/buckets/6864fd080011ea7fbffd/files/688fd1c200381cc95944/view?project=6864fc0b00077c874c53"
+  },
+  {
+    "id": "edtLPw7Cmux20GqvFsQ5O9",
+    "firstName": "Debora",
+    "lastName": "Correia",
+    "email": "deboracorreia130@gmail.com",
+    "initials": "DC",
+    "isAvailable": true,
+    "suspended": true,
+    "profilePicUrl": null
+  },
+  {
+    "id": "HPTa07kPWoGAivRiT0UH1w",
+    "firstName": "Elena roxana",
+    "lastName": "Marinoiu",
+    "email": "roxanamarinoiu10@gmail.com",
+    "initials": "EM",
+    "isAvailable": true,
+    "suspended": false,
+    "profilePicUrl": "https://fra.cloud.appwrite.io/v1/storage/buckets/6864fd080011ea7fbffd/files/688fb5350012cedd827b/view?project=6864fc0b00077c874c53"
+  },
+  {
+    "id": "68a387770039cb118e25",
+    "firstName": "Erum",
+    "lastName": "Suhail",
+    "email": "erum.suhail38@gmail.com",
+    "initials": "ES",
+    "isAvailable": true,
+    "suspended": true,
+    "profilePicUrl": "https://fra.cloud.appwrite.io/v1/storage/buckets/6864fd080011ea7fbffd/files/6915ddda00054568f7da/view?project=6864fc0b00077c874c53"
+  },
+  {
+    "id": "691b7198002cb1b256bb",
+    "firstName": "Julia Diana ",
+    "lastName": "Ionescu",
+    "email": "juliadiana03@yahoo.com",
+    "initials": "JI",
+    "isAvailable": true,
+    "suspended": false,
+    "profilePicUrl": "https://fra.cloud.appwrite.io/v1/storage/buckets/6864fd080011ea7fbffd/files/691b71980010192ff795/view?project=6864fc0b00077c874c53"
+  },
+  {
+    "id": "68b9d02900348760fa6c",
+    "firstName": "Leticia",
+    "lastName": "Ferreira",
+    "email": "leticiaimferreira002@gmail.com",
+    "initials": "LF",
+    "isAvailable": false,
+    "suspended": false,
+    "profilePicUrl": "https://fra.cloud.appwrite.io/v1/storage/buckets/6864fd080011ea7fbffd/files/68b9d028000e3d108a7b/view?project=6864fc0b00077c874c53"
+  },
+  {
+    "id": "dummy_cleaner_01",
+    "firstName": "Victor",
+    "lastName": "Sam",
+    "email": "victor.sam@example.com",
+    "initials": "VS",
+    "isAvailable": true,
+    "suspended": false,
+    "profilePicUrl": "/assets/images/profile_pics/Victorsam%20Gichuhi%20Portrait.png"
+  },
+  {
+    "id": "dummy_cleaner_02",
+    "firstName": "Nia",
+    "lastName": "Khan",
+    "email": "nia.khan@example.com",
+    "initials": "NK",
+    "isAvailable": true,
+    "suspended": false,
+    "profilePicUrl": "/assets/images/profile_pics/Victorsam%20Gichuhi%20Portrait.png"
+  },
+  {
+    "id": "dummy_cleaner_03",
+    "firstName": "Omar",
+    "lastName": "Reed",
+    "email": "omar.reed@example.com",
+    "initials": "OR",
+    "isAvailable": true,
+    "suspended": false,
+    "profilePicUrl": "/assets/images/profile_pics/Victorsam%20Gichuhi%20Portrait.png"
+  },
+  {
+    "id": "dummy_cleaner_04",
+    "firstName": "Zara",
+    "lastName": "Miles",
+    "email": "zara.miles@example.com",
+    "initials": "ZM",
+    "isAvailable": true,
+    "suspended": false,
+    "profilePicUrl": "/assets/images/profile_pics/Victorsam%20Gichuhi%20Portrait.png"
+  },
+  {
+    "id": "dummy_cleaner_05",
+    "firstName": "Kai",
+    "lastName": "Jordan",
+    "email": "kai.jordan@example.com",
+    "initials": "KJ",
+    "isAvailable": true,
+    "suspended": false,
+    "profilePicUrl": "/assets/images/profile_pics/Victorsam%20Gichuhi%20Portrait.png"
+  },
+  {
+    "id": "dummy_cleaner_06",
+    "firstName": "Lena",
+    "lastName": "Park",
+    "email": "lena.park@example.com",
+    "initials": "LP",
+    "isAvailable": true,
+    "suspended": false,
+    "profilePicUrl": "/assets/images/profile_pics/Victorsam%20Gichuhi%20Portrait.png"
+  }
+]

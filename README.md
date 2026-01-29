@@ -1,18 +1,13 @@
-# Welcome to React Router!
+# UI Playground (React Router + Vite)
 
-A modern, production-ready template for building full-stack React applications using React Router.
+This repo is a learning space for UI creation. It uses React Router, Vite, and shadcn/ui. Some interfaces are inspired by ClickUp patterns (for example, the calendar view), while others are custom to my brand.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+## Highlights
 
-## Features
-
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+- ⚡️ Vite dev server + HMR
+- 🧩 React Router for routing
+- 🎨 TailwindCSS + shadcn/ui for styling and components
+- 📚 UI explorations: ClickUp-inspired patterns + custom brand-driven screens
 
 ## Getting Started
 

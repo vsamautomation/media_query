@@ -1,6 +1,8 @@
 .DS_Store
 .env
 /node_modules/
+/.vite/
+app/data/test_modules/
 
 # React Router
 /.react-router/
